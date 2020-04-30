@@ -9,7 +9,6 @@ public static void main(String[] args) {
 	Random gen = new Random(); 
 JOptionPane.showMessageDialog(null, "roll for lottery");
 int randomNumber = gen.nextInt(10);
-int randomNumbe = gen.nextInt()
 }
 }
 
